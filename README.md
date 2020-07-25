@@ -1,6 +1,7 @@
 # Word-Search-Problem-in-Java
 
 Problem: 
-I plan to study all issue reports filed against Apache Camel project. However,
-there is no database available. Could you build a crawler to download a Jira
-issue report, parse it, and store it into a .csv file? 
+Given a 2D board and a word, find if the word exists in the grid. The word
+can be constructed from letters of sequentially adjacent cell, where \adjacent"
+cells are those horizontally or vertically neighbouring.
+Note: The same letter cell may not be used more than once.
